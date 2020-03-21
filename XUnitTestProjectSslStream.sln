@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProjectSslStream", "XUnitTestProjectSslStream.csproj", "{5FFD6BCC-6382-42CE-A492-A39A3AB0E452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FFD6BCC-6382-42CE-A492-A39A3AB0E452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFD6BCC-6382-42CE-A492-A39A3AB0E452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFD6BCC-6382-42CE-A492-A39A3AB0E452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFD6BCC-6382-42CE-A492-A39A3AB0E452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D55581C-E346-43DC-8F32-965164C54E29}
+	EndGlobalSection
+EndGlobal
